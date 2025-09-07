@@ -4,7 +4,7 @@ These tasks outline the incremental steps for building the campaign website. Eac
 
 ## WO-01: Initialize Repo & Theme (MVP Day 1)
 
-* Create Jekyll repository structure with folders listed in the project plan
+* Create repository structure with folders listed in the project plan
 * Add minimal `base.css`, `print.css`, and `contrast.css`
 * Build header, footer, navigation, and EN↔ES toggle
 * Add placeholder pages in English and Spanish
