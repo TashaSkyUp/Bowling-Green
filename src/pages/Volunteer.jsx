@@ -1,3 +1,5 @@
+import PlaceholderPage from '../components/PlaceholderPage.jsx';
+
 export default function Volunteer() {
-  return <h1>Volunteer</h1>;
+  return <PlaceholderPage title="Volunteer" message="Content coming soon" />;
 }

@@ -1,3 +1,5 @@
+import PlaceholderPage from '../components/PlaceholderPage.jsx';
+
 export default function Issues() {
-  return <h1>Issues</h1>;
+  return <PlaceholderPage title="Issues" message="Content coming soon" />;
 }

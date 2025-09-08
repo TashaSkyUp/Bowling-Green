@@ -1,3 +1,5 @@
+import PlaceholderPage from '../components/PlaceholderPage.jsx';
+
 export default function Newsroom() {
-  return <h1>Newsroom</h1>;
+  return <PlaceholderPage title="Newsroom" message="Content coming soon" />;
 }

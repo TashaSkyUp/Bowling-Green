@@ -1,3 +1,5 @@
+import PlaceholderPage from '../components/PlaceholderPage.jsx';
+
 export default function Donate() {
-  return <h1>Donate</h1>;
+  return <PlaceholderPage title="Donate" message="Content coming soon" />;
 }

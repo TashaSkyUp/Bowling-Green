@@ -1,3 +1,5 @@
+import PlaceholderPage from '../components/PlaceholderPage.jsx';
+
 export default function Endorsements() {
-  return <h1>Endorsements</h1>;
+  return <PlaceholderPage title="Endorsements" message="Content coming soon" />;
 }
