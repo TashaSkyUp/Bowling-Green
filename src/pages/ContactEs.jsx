@@ -1,9 +1,5 @@
-export default function ContactEs() {
-  return (
-    <div>
-      <h1>Contacto</h1>
-      <p style={{ color: '#ff0000' }}>Contenido próximamente</p>
-    </div>
-  );
-}
+import PlaceholderPage from '../components/PlaceholderPage.jsx';
 
+export default function ContactEs() {
+  return <PlaceholderPage title="Contacto" message="Contenido próximamente" />;
+}

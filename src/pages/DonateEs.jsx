@@ -1,9 +1,5 @@
-export default function DonateEs() {
-  return (
-    <div>
-      <h1>Donar</h1>
-      <p style={{ color: '#ff0000' }}>Contenido próximamente</p>
-    </div>
-  );
-}
+import PlaceholderPage from '../components/PlaceholderPage.jsx';
 
+export default function DonateEs() {
+  return <PlaceholderPage title="Donar" message="Contenido próximamente" />;
+}

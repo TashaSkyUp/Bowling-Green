@@ -1,9 +1,5 @@
-export default function NewsroomEs() {
-  return (
-    <div>
-      <h1>Sala de Prensa</h1>
-      <p style={{ color: '#ff0000' }}>Contenido próximamente</p>
-    </div>
-  );
-}
+import PlaceholderPage from '../components/PlaceholderPage.jsx';
 
+export default function NewsroomEs() {
+  return <PlaceholderPage title="Sala de Prensa" message="Contenido próximamente" />;
+}
