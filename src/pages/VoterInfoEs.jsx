@@ -1,9 +1,5 @@
-export default function VoterInfoEs() {
-  return (
-    <div>
-      <h1>Información para Votantes</h1>
-      <p style={{ color: '#ff0000' }}>Contenido próximamente</p>
-    </div>
-  );
-}
+import PlaceholderPage from '../components/PlaceholderPage.jsx';
 
+export default function VoterInfoEs() {
+  return <PlaceholderPage title="Información para Votantes" message="Contenido próximamente" />;
+}

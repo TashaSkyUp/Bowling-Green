@@ -1,9 +1,5 @@
-export default function EndorsementsEs() {
-  return (
-    <div>
-      <h1>Apoyos</h1>
-      <p style={{ color: '#ff0000' }}>Contenido próximamente</p>
-    </div>
-  );
-}
+import PlaceholderPage from '../components/PlaceholderPage.jsx';
 
+export default function EndorsementsEs() {
+  return <PlaceholderPage title="Apoyos" message="Contenido próximamente" />;
+}
