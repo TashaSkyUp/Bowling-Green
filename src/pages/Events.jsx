@@ -1,3 +1,5 @@
+import PlaceholderPage from '../components/PlaceholderPage.jsx';
+
 export default function Events() {
-  return <h1>Events</h1>;
+  return <PlaceholderPage title="Events" message="Content coming soon" />;
 }

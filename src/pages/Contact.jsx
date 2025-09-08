@@ -1,3 +1,5 @@
+import PlaceholderPage from '../components/PlaceholderPage.jsx';
+
 export default function Contact() {
-  return <h1>Contact</h1>;
+  return <PlaceholderPage title="Contact" message="Content coming soon" />;
 }
